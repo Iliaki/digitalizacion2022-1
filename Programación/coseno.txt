@@ -1,4 +1,4 @@
 t = 0:0.01:100;
-x_t = sen(t);
+x_t = cos(t);
 
 plot(t, x_t)
